@@ -98,7 +98,9 @@ gulp.task('sass', function() {
 		.pipe(sass({
 			outputStyle: 'compressed'
 		}).on('error', sass.logError))
-		.pipe(autoprefixer())
+		.pipe(autoprefixer({
+			browsers: ['last 2 versions', '> 5%'],
+		}))
 		.pipe(gulp.dest('dist/assets/css'))
 		.pipe(browserSync.stream())
 });
