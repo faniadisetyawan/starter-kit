@@ -1,0 +1,23 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "frontend starter-kit development",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faniadisetyawan/starter-kit.git"
+  },
+  "keywords": [
+    "frontend",
+    "easy"
+  ],
+  "author": "faniadisetyawan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faniadisetyawan/starter-kit/issues"
+  },
+  "homepage": "https://github.com/faniadisetyawan/starter-kit#readme"
+}
