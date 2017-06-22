@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/faniadisetyawan/starter-kit/issues"
   },
-  "homepage": "https://github.com/faniadisetyawan/starter-kit#readme"
+  "homepage": "https://github.com/faniadisetyawan/starter-kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
