@@ -19,6 +19,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "3"
+    "bootstrap": "3",
+    "simple-line-icons": "^2.4.1"
   }
 }

@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Product 1",
+		"icon": "icon-layers",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quasi, eos ex similique labore."
+	},
+	{
+		"title": "Product 2",
+		"icon": "icon-location-pin",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quasi, eos ex similique labore."
+	},
+	{
+		"title": "Product 3",
+		"icon": "icon-fire",
+		"caption": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quasi, eos ex similique labore."
+	}
+]
