@@ -1,0 +1,21 @@
+{
+  "name": "starter-kit",
+  "description": "frontend starter-kit development",
+  "main": "gulpfile.js",
+  "authors": [
+    "faniadisetyawan@gmail.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "frontend",
+    "easy"
+  ],
+  "homepage": "https://github.com/faniadisetyawan/starter-kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
