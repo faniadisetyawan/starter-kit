@@ -27,6 +27,7 @@
     "gulp-clean-css": "^3.4.2",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^3.3.0",
+    "gulp-real-favicon": "^0.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
     "panini": "^1.4.0"
